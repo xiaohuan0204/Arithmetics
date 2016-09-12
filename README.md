@@ -1,0 +1,2 @@
+# Arithmetics
+Practice algorithm
