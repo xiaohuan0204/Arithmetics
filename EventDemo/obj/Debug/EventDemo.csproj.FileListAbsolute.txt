@@ -1,0 +1,6 @@
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\EventDemo\obj\Debug\EventDemo.pdb

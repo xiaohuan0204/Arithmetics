@@ -1,0 +1,6 @@
+C:\Users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortTotal\bin\Debug\SortTotal.exe.config
+C:\Users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortTotal\bin\Debug\SortTotal.exe
+C:\Users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortTotal\bin\Debug\SortTotal.pdb
+C:\Users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortTotal\obj\Debug\SortTotal.exe
+C:\Users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortTotal\obj\Debug\SortTotal.pdb
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\SortTotal\obj\Debug\SortTotal.csprojResolveAssemblyReference.cache

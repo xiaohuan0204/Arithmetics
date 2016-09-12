@@ -1,0 +1,5 @@
+c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\bin\Debug\SortDemo.exe.config
+c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\bin\Debug\SortDemo.exe
+c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\bin\Debug\SortDemo.pdb
+c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\obj\Debug\SortDemo.exe
+c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\obj\Debug\SortDemo.pdb

@@ -1,0 +1,5 @@
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\bin\Debug\DiGui.exe.config
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\bin\Debug\DiGui.exe
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\bin\Debug\DiGui.pdb
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\obj\Debug\DiGui.exe
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\obj\Debug\DiGui.pdb
