@@ -3,3 +3,4 @@ c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\bin\
 c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\bin\Debug\SortDemo.pdb
 c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\obj\Debug\SortDemo.exe
 c:\users\xh\documents\visual studio 2015\Projects\AlgorithmProject\SortDemo\obj\Debug\SortDemo.pdb
+C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\SortDemo\obj\Debug\SortDemo.csprojResolveAssemblyReference.cache
