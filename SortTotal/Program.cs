@@ -29,8 +29,11 @@ namespace SortTotal
 			//int[] afternum = BubbleSorter.Sort(num);
 			//int[] afternum = CockTailSorter.Sort(num);
 			//int[] afternum = HeapSorter.Sort(num);
-			int[] afternum = InsertSorter.Sort(num);
+			//int[] afternum = InsertSorter.Sort(num);
 			//int[] afternum = QuickSorter.Sort(num);
+			//int[] afternum = SelectSorter.Sort(num);
+			//int[] afternum = ShellSorter.Sort(num);
+			int[] afternum = MergeSorter.Sort(num);
 			Console.WriteLine("排序后：");
 			foreach (int result in afternum)
 			{
@@ -38,7 +41,6 @@ namespace SortTotal
 			}
 			Console.ReadKey();
 		}
-
 
 		private static List<int> GenerateRandomNumber(int length)
 		{

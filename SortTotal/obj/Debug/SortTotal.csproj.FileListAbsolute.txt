@@ -7,3 +7,6 @@ C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\SortTotal\obj
 C:\Project\Arithmetics\SortTotal\bin\Debug\SortTotal.exe.config
 C:\Project\Arithmetics\SortTotal\obj\Debug\SortTotal.exe
 C:\Project\Arithmetics\SortTotal\obj\Debug\SortTotal.pdb
+C:\Project\Arithmetics\SortTotal\bin\Debug\SortTotal.exe
+C:\Project\Arithmetics\SortTotal\bin\Debug\SortTotal.pdb
+C:\Project\Arithmetics\SortTotal\obj\Debug\SortTotal.csprojResolveAssemblyReference.cache

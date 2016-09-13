@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace SortTotal
 {
 	//堆排序
+	//大根堆：父节点要比左右孩子都要大。
+    //小根堆：父节点要比左右孩子都要小。
 	class HeapSorter
 	{
 		public static int[] Sort(int[] sortArray)

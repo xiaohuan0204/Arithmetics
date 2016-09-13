@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SortTotal
 {
-	//双冒泡排序、搅拌排序或涟漪排序
+	//双冒泡排序、搅拌排序或涟漪排序(第一次排序为小数在前，第二次排序为大数再前)
 	class CockTailSorter
 	{
 		private static int[] myArray;
@@ -20,7 +20,7 @@ namespace SortTotal
 
 		private static void CockTailSort(int[] myArray)
 		{
-			int low, up, index, a;//a?
+			int low, up, index;
 			low = 0;//数组起始索引
 			up = myArray.Length - 1;//数组索引最大值
 			index = low;//临时变量
