@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTotal", "SortTotal\Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiGui", "DiGui\DiGui.csproj", "{9FBF4FCB-C2B2-4D28-AF48-F2046FF45770}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{F134C1F9-1EC4-448A-BEFA-AFF370771E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9FBF4FCB-C2B2-4D28-AF48-F2046FF45770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBF4FCB-C2B2-4D28-AF48-F2046FF45770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBF4FCB-C2B2-4D28-AF48-F2046FF45770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F134C1F9-1EC4-448A-BEFA-AFF370771E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F134C1F9-1EC4-448A-BEFA-AFF370771E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F134C1F9-1EC4-448A-BEFA-AFF370771E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F134C1F9-1EC4-448A-BEFA-AFF370771E60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

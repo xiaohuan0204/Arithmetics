@@ -4,3 +4,9 @@ C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\bin\Deb
 C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\obj\Debug\DiGui.exe
 C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\obj\Debug\DiGui.pdb
 C:\Users\xh\Documents\Visual Studio 2015\Projects\AlgorithmProject\DiGui\obj\Debug\DiGui.csprojResolveAssemblyReference.cache
+C:\Project\Arithmetics\DiGui\bin\Debug\DiGui.exe.config
+C:\Project\Arithmetics\DiGui\bin\Debug\DiGui.exe
+C:\Project\Arithmetics\DiGui\bin\Debug\DiGui.pdb
+C:\Project\Arithmetics\DiGui\obj\Debug\DiGui.csprojResolveAssemblyReference.cache
+C:\Project\Arithmetics\DiGui\obj\Debug\DiGui.exe
+C:\Project\Arithmetics\DiGui\obj\Debug\DiGui.pdb

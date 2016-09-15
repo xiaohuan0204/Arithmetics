@@ -1,0 +1,6 @@
+C:\Project\Arithmetics\Tree\bin\Debug\Tree.exe.config
+C:\Project\Arithmetics\Tree\bin\Debug\Tree.exe
+C:\Project\Arithmetics\Tree\bin\Debug\Tree.pdb
+C:\Project\Arithmetics\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Project\Arithmetics\Tree\obj\Debug\Tree.exe
+C:\Project\Arithmetics\Tree\obj\Debug\Tree.pdb
